@@ -4,7 +4,7 @@
   "description": "CodeX helps explain in plain English whatever code snippet that you throw at it",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon ./src/index.js"
   },
   "repository": {
     "type": "git",
